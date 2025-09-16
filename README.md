@@ -83,17 +83,7 @@ YOUR_REPO/
 
 * **LinkedIn:** [https://www.linkedin.com/in/moses-mukuka-942480260](https://www.linkedin.com/in/moses-mukuka-942480260)
 * **WhatsApp:** +260968548353
-* **Email:**mosesmukuka1999@gmail.com
+* **Email:** mosesmukuka1999@gmail.com
 
 ---
 
-## ✨ Tips to make this profile live
-
-1. Create a repository named exactly as your GitHub username (e.g., `mosesmukuka`). Paste this README there — GitHub will display it on your profile page.
-2. Replace every `mosesmukuka`, `YOUR_LINKEDIN_HANDLE`, and `YOUR_EMAIL@example.com` with your real values.
-3. Add at least 3 pinned repositories (nettools-subnetter, packet-tracer-labs, nettools-configgen).
-4. Add a profile picture and a short banner image (Canva) that says: “Networking | Packet Tracer | Python”.
-
----
-
-If you want, I can replace all `mosesmukuka` placeholders with your real GitHub username and customize contact links — tell me your GitHub username and I’ll update the README for you.
