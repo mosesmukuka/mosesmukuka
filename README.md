@@ -1,89 +1,36 @@
-# Hi, I’m Moses 👋
+# Hi there, I'm Moses Mukuka 👋
 
-[![Followers](https://img.shields.io/github/followers/mosesmukuka?label=Follow\&style=social)](https://github.com/mosesmukuka)
-[![GitHub stars](https://img.shields.io/github/stars/mosesmukuka?style=social)](https://github.com/mosesmukuka?tab=stars)
-
----
-
-## 🚀 About Me
-
-I’m **Moses Mukuka** — an aspiring Network Engineer from Lusaka, Zambia. I build practical Packet Tracer labs and Python networking tools to learn real-world networking: subnetting, VLANs, routing, and automation. This GitHub hosts my learning projects, lab files, and automation scripts that I use to turn Packet Tracer practice into repeatable, shareable work.
-
-**Current focus:** routing & switching fundamentals, subnetting/VLSM, Packet Tracer topologies, and Python for NetOps (subnet calculators, config generation, Netmiko examples).
+**ERP & Inventory Operations Specialist | Supply Chain Data & Data Auditing**  
+📍 Based in Lusaka, Zambia | Open to Global Remote Roles
 
 ---
 
-## 🧰 Tech & Tools
-
-* **Networking:** TCP/IP, Subnetting, VLANs, OSPF, NAT, ACLs, DHCP
-* **Tools:** Cisco Packet Tracer, Wireshark (basic), GNS3 (future)
-* **Languages & Automation:** Python (`ipaddress`, `netmiko`, `jinja2`), Bash (basic)
-* **Docs & Extras:** Markdown, Git, GitHub
+### 🚀 About Me
+- 💼 **Experience:** 7+ years managing live warehouse execution, stock reconciliation, GRNs/POs, and Oracle ERP workflows in high-volume manufacturing environments.
+- 🎓 **Background:** Diploma in Computer Studies with a focus on database management, SQL, Python automation, and data validation.
+- 🛠️ **Current Focus:** Building production-grade inventory variance models, ERP audit scripts, and automated data quality tools for enterprise supply chains.
 
 ---
 
-## 📂 Featured Projects
-
-> Click a project to view code, README, and how to run the lab/configs.
-
-* **`nettools-subnetter`** — VLSM allocator & subnet calculator (Python).
-  *What:* Generate VLSM allocations from a base network and host requirements; export CSV and IOS snippets.
-  *Why:* Makes addressing plans fast, repeatable and error-free.
-
-* **`packet-tracer-labs`** — Collection of Packet Tracer `.pkt` topologies with screenshots and configs.
-  *What:* Labs for VLANs, inter-VLAN routing, OSPF, DHCP and ACL examples.
-  *Why:* Demonstrates hands-on skills and configurations.
-
-* **`nettools-configgen`** — CSV → Cisco IOS config generator (Jinja2).
-  *What:* Turn an address plan CSV into interface configs, DHCP pools, VLANs and trunk commands.
-  *Why:* Saves time and reduces copy/paste errors when provisioning devices.
-
-> *Tip:* Use the project READMEs as lab guides — each contains a short walkthrough, expected output, and how to paste configs into Packet Tracer.
+### 🧰 Tech Stack & Tools
+- **ERP & Systems:** Oracle ERP, Master Data Management, Stock Control, Procurement Workflows
+- **Data & Analytics:** Python (`pandas`, `openpyxl`), SQL, Excel (Advanced Modeling), Power BI
+- **Cloud & Automation:** AWS S3 Auditing (`boto3`), REST APIs, Web Automation & Scripting
 
 ---
 
-## 📈 GitHub Stats & Languages
+### 📌 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesmukuka\&layout=compact)
+#### 1. [Inventory Variance & Stock Health Model](./inventory-variance-model)
+> *An interactive Excel & Power BI model simulating 6 months of warehouse inventory movements across 500+ SKUs.*
+- **Key Features:** Automated variance calculation, ABC classification (80/20 Pareto rule), stockout risk tracking, and shrinkage KPI dashboard.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesmukuka\&show_icons=true\&count_private=true)
-
-> Replace `mosesmukuka` above with your GitHub username to show live stats.
-
----
-
-## 🛠 How to Run My Tools (example)
-
-```bash
-# Clone the subnetter
-git clone https://github.com/mosesmukuka/nettools-subnetter.git
-cd nettools-subnetter
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install -r requirements.txt
-python src/subnetter.py --base 192.168.5.0/24 --requirements "DeptA:80,DeptB:30,DeptC:12"
-```
+#### 2. [Automated Inventory Data Quality & Audit Tool](./inventory-data-quality-audit-tool)
+> *A production-ready Python automation tool that ingests raw ERP logs to detect discrepancies.*
+- **Key Features:** Automated duplicate transaction detection, negative stock anomaly flagging, GRN validation, and Excel report generation.
 
 ---
 
-## 📋 Repo Structure (recommended)
-
-```
-YOUR_REPO/
-├─ README.md
-├─ src/
-├─ labs/       # Packet Tracer files and screenshots
-├─ configs/    # IOS config snippets
-└─ examples/
-```
-
----
-
-## 🤝 Get In Touch
-
-* **LinkedIn:** [https://www.linkedin.com/in/moses-mukuka-942480260](https://www.linkedin.com/in/moses-mukuka-942480260)
-* **WhatsApp:** +260968548353
-* **Email:** mosesmukuka1999@gmail.com
-
----
-
+### 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/your-profile](#)
+- **Email:** moses.mukuka@example.com
